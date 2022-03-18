@@ -4,7 +4,6 @@ import com.nasatest.helpers.PhotoRetriever;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
-import lombok.var;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
