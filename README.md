@@ -506,6 +506,7 @@ Name | Usage |
 JAVA | Programming language
 RestAssured | Api Automation Framework 
 Maven | Dependency Management	
+TestNG | Test Management Framework
 
 
 
