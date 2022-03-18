@@ -507,6 +507,7 @@ JAVA | Programming language
 RestAssured | Api Automation Framework 
 Maven | Dependency Management	
 TestNG | Test Management Framework
+Lombok | Library that automatically plugs into your editor and build tools
 
 
 
@@ -522,3 +523,4 @@ TestNG | Test Management Framework
 - Java - https://www.java.com/
 - RestAssured - https://rest-assured.io/
 - TestNG - https://testng.org/doc/
+- Lombok - https://projectlombok.org/
